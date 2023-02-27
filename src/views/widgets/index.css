@@ -1,0 +1,11 @@
+@media (max-width: 800px) {
+  #card_responsive {
+    margin-left: -40px;
+  }
+}
+@media (max-width: 414px) {
+  #card_left {
+    margin-left: -35px;
+    margin-right: 40px;
+  }
+}

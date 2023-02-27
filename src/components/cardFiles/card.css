@@ -1,0 +1,44 @@
+.card {
+    transition: 1s;
+}
+
+.carda:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .09);
+}
+
+.btn3:hover {
+    transform: scale(1.04);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .09);
+    font-weight: bolder;
+}
+
+.btn2:hover {
+    transform: scale(1.04);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .12), 0 4px 8px rgba(0, 0, 0, .09);
+    font-weight: bolder;
+
+}
+
+.btn2:active {
+    color: red;
+}
+
+@media(max-width:375px) {
+    #card_one {
+        margin-right: 10px;
+    }
+
+    #card_one2 {
+        margin-right: 10px;
+    }
+}
+
+#card_one {
+    margin-top: 30px;
+}
+
+#card_one2 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

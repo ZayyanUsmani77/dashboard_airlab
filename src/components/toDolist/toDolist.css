@@ -1,0 +1,66 @@
+.add-btn {
+  background-color: #2741f7;
+  border-radius: 7px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  height: 40px;
+  width: 90px;
+  color: aliceblue;
+  font-size: 20px;
+  box-sizing: content-box;
+  border: none;
+  margin-top: 10px;
+}
+
+.in-text {
+  box-sizing: content-box;
+  height: 45px;
+  background-color: rgb(241, 238, 234);
+  border-style: none;
+  width: 800px;
+}
+.check {
+  margin: 20px;
+}
+.delete-btn {
+  background-color: #2741f7;
+  color: aliceblue;
+  border-style: none;
+  border-radius: 4px;
+  margin: auto;
+  height: 27px;
+  width: 50px;
+  font-size: 10px;
+  margin-right: 20px;
+  margin-left: -105px;
+}
+.delete-btn:hover {
+  background-color: #3e54f8;
+  color: aliceblue;
+  border-style: none;
+  border-radius: 4px;
+  margin: auto;
+  height: 27px;
+  width: 50px;
+  margin-right: 20px;
+  margin-left: -105px;
+}
+
+.raws {
+  width: 300px;
+  background-color: white;
+  margin: 5px auto;
+  border-radius: 10px;
+  justify-content: space-around;
+  display: flex;
+  padding: 5px;
+}
+.spanContainer {
+  width: 45%;
+  word-break: break-all;
+  padding: 1px;
+}
+.camaleon {
+  height: 70px;
+  margin: 5px;
+}
